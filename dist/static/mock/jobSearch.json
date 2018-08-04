@@ -1,0 +1,37 @@
+{
+  "ret": true,
+  "data": {
+    "jobSearchList": [{
+      "id": "001",
+      "jobSearchName": "不限"
+    }, {
+      "id": "002",
+      "jobSearchName": "滁州"
+    }, {
+      "id": "003",
+      "jobSearchName": "全椒"
+    }, {
+      "id": "004",
+      "jobSearchName": "来安"
+    }, {
+      "id": "005",
+      "jobSearchName": "定远"
+    }, {
+      "id": "006",
+      "jobSearchName": "明光" 
+    }, {
+      "id": "007",
+      "jobSearchName": "天长"
+    }],
+    "jobSearchList2": [{
+      "id": "001",
+      "jobSearchName": "不限"
+    }, {
+      "id": "002",
+      "jobSearchName": "全职"
+    }, {
+      "id": "003",
+      "jobSearchName": "兼职"
+    }]
+  }
+}

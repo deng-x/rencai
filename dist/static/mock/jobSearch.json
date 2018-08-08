@@ -32,6 +32,237 @@
     }, {
       "id": "003",
       "jobSearchName": "兼职"
+    }],
+    "jobSearchList3": [{
+      "id": "001",
+      "jobSearchName": "不限"
+    }, {
+      "id": "002",
+      "jobSearchName": "1K以下"
+    }, {
+      "id": "003",
+      "jobSearchName": "1K-2K"
+    }, {
+      "id": "004",
+      "jobSearchName": "2K-3K"
+    }, {
+      "id": "005",
+      "jobSearchName": "3K-5K"
+    }, {
+      "id": "006",
+      "jobSearchName": "5K-8K"
+    }, {
+      "id": "007",
+      "jobSearchName": "8K-12K"
+    }, {
+      "id": "008",
+      "jobSearchName": "12K-20K"
+    }, {
+      "id": "009",
+      "jobSearchName": "20K以上"
+    }, {
+      "id": "010",
+      "jobSearchName": "面议"
+    }],
+    "jobList": [{
+      "id": "001",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "1K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "002",
+      "iconRed": "急",
+      "iconYellow": "兼",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "2K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "003",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "004",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "005",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "006",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "007",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "008",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "009",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }, {
+      "id": "010",
+      "iconRed": "急",
+      "iconYellow": "",
+      "jobName": "房产经纪人(底薪+最高提成8成)",
+      "jobPay": "3K - 5K",
+      "require": "滁州市 | 经验不限 | 学历不限",
+      "time": "06-11",
+      "iconRenzheng": "认证",
+      "jobPlace": "滁州开发区童画美术中心"
+    }],
+    "categoryList": [{
+      "id": "002",
+      "categoryName": "行政人事"
+    }, {
+      "id": "003",
+      "categoryName": "城建装修"
+    }, {
+      "id": "004",
+      "categoryName": "客户服务"
+    }, {
+      "id": "005",
+      "categoryName": "会计财务"
+    }, {
+      "id": "006",
+      "categoryName": "普工技工" 
+    }, {
+      "id": "007",
+      "categoryName": "文体培训"
+    }, {
+      "id": "008",
+      "categoryName": "文职文员"
+    }, {
+      "id": "009",
+      "categoryName": "设计包装"
+    }, {
+      "id": "010",
+      "categoryName": "百货零售"
+    }, {
+      "id": "011",
+      "categoryName": "工厂工农"
+    }, {
+      "id": "012",
+      "categoryName": "餐饮休闲"
+    }, {
+      "id": "013",
+      "categoryName": "金融保险"
+    }, {
+      "id": "014",
+      "categoryName": "管理运营"
+    }, {
+      "id": "015",
+      "categoryName": "物流贸易"
+    } ,{
+      "id": "016",
+      "categoryName": "司机后勤"
+    }, {
+      "id": "017",
+      "categoryName": "市场销售"
+    }, {
+      "id": "018",
+      "categoryName": "行政人事"
+    }, {
+      "id": "019",
+      "categoryName": "城建装修" 
+    }, {
+      "id": "020",
+      "categoryName": "客户服务"
+    }, {
+      "id": "021",
+      "categoryName": "会计财务"
+    }, {
+      "id": "022",
+      "categoryName": "普工技工"
+    }, {
+      "id": "023",
+      "categoryName": "市场销售"
+    }],
+    "jobProp": [{
+      "id": "001",
+      "jobPropName": "不限"
+    }, {
+      "id": "002",
+      "jobPropName": "个人"
+    }, {
+      "id": "003",
+      "jobPropName": "企业"
+    }, {
+      "id": "004",
+      "jobPropName": "其他"
+    }],
+    "jobTime": [{
+      "id": "001",
+      "jobTimeName": "不限"
+    }, {
+      "id": "002",
+      "jobTimeName": "今天"
+    }, {
+      "id": "003",
+      "jobTimeName": "三天内"
+    }, {
+      "id": "004",
+      "jobTimeName": "一周内"
+    }, {
+      "id": "005",
+      "jobTimeName": "一个月内"
+    }, {
+      "id": "006",
+      "jobTimeName": "三个月内"
     }]
   }
 }

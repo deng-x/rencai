@@ -1,0 +1,48 @@
+{
+  "ret": true,
+  "data": {
+    "companyList": [{
+      "id": "001",
+      "iconYellow": "VIP",
+      "iconRed": "会员",
+      "jobName": "滁州创展人力资源服务有限公司",
+      "require": "滁州市 | 广告、会展、商务、传媒-商务服务",
+      "jobNum": "8个在招聘职位"
+    }, {
+      "id": "002",
+      "iconYellow": "VIP",
+      "iconRed": "",
+      "jobName": "安徽光大售电有限公司",
+      "require": "滁州市 | 医疗、药品、器械、保健品-卫生、医疗及康复器材",
+      "jobNum": "12个在招聘职位"
+    }, {
+      "id": "003",
+      "iconYellow": "",
+      "iconRed": "",
+      "jobName": "南京大洋劳务有限公司滁州分公司",
+      "require": "滁州市 | 医疗、药品、器械、保健品-卫生、医疗及康复器材",
+      "jobNum": "0个在招聘职位"
+    }, {
+      "id": "004",
+      "iconYellow": "VIP",
+      "iconRed": "会员",
+      "jobName": "滁州创展人力资源服务有限公司",
+      "require": "滁州市 | 广告、会展、商务、传媒-商务服务",
+      "jobNum": "8个在招聘职位"
+    }, {
+      "id": "005",
+      "iconYellow": "VIP",
+      "iconRed": "会员",
+      "jobName": "滁州创展人力资源服务有限公司",
+      "require": "滁州市 | 广告、会展、商务、传媒-商务服务",
+      "jobNum": "8个在招聘职位"
+    }, {
+      "id": "006",
+      "iconYellow": "VIP",
+      "iconRed": "会员",
+      "jobName": "滁州创展人力资源服务有限公司",
+      "require": "滁州市 | 广告、会展、商务、传媒-商务服务",
+      "jobNum": "8个在招聘职位"
+    }]
+  }
+}
